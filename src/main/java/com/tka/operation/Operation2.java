@@ -7,7 +7,9 @@ public class Operation2 {
 	}
 
 	public void printTableOf10() {
-		// Snehal
+		for(int i=1;i<=10;i++) {
+			System.out.println(i);
+		}
 	}
 
 	public void factorial() {
