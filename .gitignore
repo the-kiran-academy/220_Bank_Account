@@ -1,0 +1,50 @@
+# Eclipse specific
+/.project
+/.classpath
+/.settings/
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Eclipse Core Resources
+*.tmp
+*.bak
+*.swp
+
+# Maven-specific
+/logs/
+/release.properties
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Eclipse working sets and local metadata
+.apt_generated/
+.factorypath
+.metadata/
+recommenders/
+.loadpath
+.externalToolBuilders/
+
+# JDT settings (optional, if you want them machine-specific)
+/.settings/org.eclipse.jdt.*
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Local environment variables or custom properties
+.env
+*.local.properties
