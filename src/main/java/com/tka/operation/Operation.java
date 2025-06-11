@@ -262,6 +262,6 @@ public class Operation {
 		criteria.setProjection(projectionList);
 		List<Object[]> list = criteria.list();
 		return list;
-	}	
+	}
 
 }
