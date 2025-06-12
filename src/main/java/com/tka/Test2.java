@@ -8,7 +8,7 @@ public class Test2 {
 		
 		Operation2 operation = new Operation2();
 		
-		operation.printTableOf5(); // Sigman
+		operation.printTableOf5(); // Shibam
 		operation.printTableOf10(); // Snehal
 		operation.factorial(); // Rohan
 		operation.fibonacci(); // Arnav

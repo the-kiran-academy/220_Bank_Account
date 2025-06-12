@@ -3,7 +3,10 @@ package com.tka.operation;
 public class Operation2 {
 
 	public void printTableOf5() {
-		// Sigman
+		// Shibam
+		for(int i=1;i<=10;i++) {
+			System.out.println(i+" *"+" 5 ="+i*5);
+		}
 	}
 
 	public void printTableOf10() {
